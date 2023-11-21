@@ -1,0 +1,4 @@
+---
+permalink: use/manage-remote-authentication.html
+redirect: astra-control-center-2211/index.html
+---

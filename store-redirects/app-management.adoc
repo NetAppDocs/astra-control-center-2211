@@ -1,0 +1,4 @@
+---
+permalink: concepts/app-management.html
+redirect: astra-control-center-2211/index.html
+---
