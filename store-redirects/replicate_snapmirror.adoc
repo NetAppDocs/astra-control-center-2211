@@ -1,0 +1,4 @@
+---
+permalink: use/replicate_snapmirror.html
+redirect: astra-control-center-2211/index.html
+---

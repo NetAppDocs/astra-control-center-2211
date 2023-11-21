@@ -1,0 +1,5 @@
+---
+permalink: get-started/cert-manager-prereqs.html
+
+redirect: astra-control-center-2211/index.html
+---
